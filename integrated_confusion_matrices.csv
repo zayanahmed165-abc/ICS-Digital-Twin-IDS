@@ -1,0 +1,97 @@
+Feature_Set,Model,Actual_Label,Predicted_Label,Count
+ICS Only,Random Forest,Normal,Normal,200
+ICS Only,Random Forest,Normal,Pressure_Anomaly,0
+ICS Only,Random Forest,Normal,Sensor_Anomaly,0
+ICS Only,Random Forest,Normal,Temperature_Anomaly,0
+ICS Only,Random Forest,Pressure_Anomaly,Normal,0
+ICS Only,Random Forest,Pressure_Anomaly,Pressure_Anomaly,20
+ICS Only,Random Forest,Pressure_Anomaly,Sensor_Anomaly,0
+ICS Only,Random Forest,Pressure_Anomaly,Temperature_Anomaly,0
+ICS Only,Random Forest,Sensor_Anomaly,Normal,0
+ICS Only,Random Forest,Sensor_Anomaly,Pressure_Anomaly,0
+ICS Only,Random Forest,Sensor_Anomaly,Sensor_Anomaly,20
+ICS Only,Random Forest,Sensor_Anomaly,Temperature_Anomaly,0
+ICS Only,Random Forest,Temperature_Anomaly,Normal,0
+ICS Only,Random Forest,Temperature_Anomaly,Pressure_Anomaly,0
+ICS Only,Random Forest,Temperature_Anomaly,Sensor_Anomaly,0
+ICS Only,Random Forest,Temperature_Anomaly,Temperature_Anomaly,20
+ICS Only,Decision Tree,Normal,Normal,200
+ICS Only,Decision Tree,Normal,Pressure_Anomaly,0
+ICS Only,Decision Tree,Normal,Sensor_Anomaly,0
+ICS Only,Decision Tree,Normal,Temperature_Anomaly,0
+ICS Only,Decision Tree,Pressure_Anomaly,Normal,0
+ICS Only,Decision Tree,Pressure_Anomaly,Pressure_Anomaly,20
+ICS Only,Decision Tree,Pressure_Anomaly,Sensor_Anomaly,0
+ICS Only,Decision Tree,Pressure_Anomaly,Temperature_Anomaly,0
+ICS Only,Decision Tree,Sensor_Anomaly,Normal,0
+ICS Only,Decision Tree,Sensor_Anomaly,Pressure_Anomaly,0
+ICS Only,Decision Tree,Sensor_Anomaly,Sensor_Anomaly,20
+ICS Only,Decision Tree,Sensor_Anomaly,Temperature_Anomaly,0
+ICS Only,Decision Tree,Temperature_Anomaly,Normal,0
+ICS Only,Decision Tree,Temperature_Anomaly,Pressure_Anomaly,0
+ICS Only,Decision Tree,Temperature_Anomaly,Sensor_Anomaly,0
+ICS Only,Decision Tree,Temperature_Anomaly,Temperature_Anomaly,20
+ICS Only,SVM,Normal,Normal,200
+ICS Only,SVM,Normal,Pressure_Anomaly,0
+ICS Only,SVM,Normal,Sensor_Anomaly,0
+ICS Only,SVM,Normal,Temperature_Anomaly,0
+ICS Only,SVM,Pressure_Anomaly,Normal,0
+ICS Only,SVM,Pressure_Anomaly,Pressure_Anomaly,20
+ICS Only,SVM,Pressure_Anomaly,Sensor_Anomaly,0
+ICS Only,SVM,Pressure_Anomaly,Temperature_Anomaly,0
+ICS Only,SVM,Sensor_Anomaly,Normal,0
+ICS Only,SVM,Sensor_Anomaly,Pressure_Anomaly,0
+ICS Only,SVM,Sensor_Anomaly,Sensor_Anomaly,20
+ICS Only,SVM,Sensor_Anomaly,Temperature_Anomaly,0
+ICS Only,SVM,Temperature_Anomaly,Normal,0
+ICS Only,SVM,Temperature_Anomaly,Pressure_Anomaly,0
+ICS Only,SVM,Temperature_Anomaly,Sensor_Anomaly,0
+ICS Only,SVM,Temperature_Anomaly,Temperature_Anomaly,20
+ICS + OS Telemetry,Random Forest,Normal,Normal,200
+ICS + OS Telemetry,Random Forest,Normal,Pressure_Anomaly,0
+ICS + OS Telemetry,Random Forest,Normal,Sensor_Anomaly,0
+ICS + OS Telemetry,Random Forest,Normal,Temperature_Anomaly,0
+ICS + OS Telemetry,Random Forest,Pressure_Anomaly,Normal,0
+ICS + OS Telemetry,Random Forest,Pressure_Anomaly,Pressure_Anomaly,20
+ICS + OS Telemetry,Random Forest,Pressure_Anomaly,Sensor_Anomaly,0
+ICS + OS Telemetry,Random Forest,Pressure_Anomaly,Temperature_Anomaly,0
+ICS + OS Telemetry,Random Forest,Sensor_Anomaly,Normal,0
+ICS + OS Telemetry,Random Forest,Sensor_Anomaly,Pressure_Anomaly,0
+ICS + OS Telemetry,Random Forest,Sensor_Anomaly,Sensor_Anomaly,20
+ICS + OS Telemetry,Random Forest,Sensor_Anomaly,Temperature_Anomaly,0
+ICS + OS Telemetry,Random Forest,Temperature_Anomaly,Normal,0
+ICS + OS Telemetry,Random Forest,Temperature_Anomaly,Pressure_Anomaly,0
+ICS + OS Telemetry,Random Forest,Temperature_Anomaly,Sensor_Anomaly,0
+ICS + OS Telemetry,Random Forest,Temperature_Anomaly,Temperature_Anomaly,20
+ICS + OS Telemetry,Decision Tree,Normal,Normal,200
+ICS + OS Telemetry,Decision Tree,Normal,Pressure_Anomaly,0
+ICS + OS Telemetry,Decision Tree,Normal,Sensor_Anomaly,0
+ICS + OS Telemetry,Decision Tree,Normal,Temperature_Anomaly,0
+ICS + OS Telemetry,Decision Tree,Pressure_Anomaly,Normal,0
+ICS + OS Telemetry,Decision Tree,Pressure_Anomaly,Pressure_Anomaly,20
+ICS + OS Telemetry,Decision Tree,Pressure_Anomaly,Sensor_Anomaly,0
+ICS + OS Telemetry,Decision Tree,Pressure_Anomaly,Temperature_Anomaly,0
+ICS + OS Telemetry,Decision Tree,Sensor_Anomaly,Normal,0
+ICS + OS Telemetry,Decision Tree,Sensor_Anomaly,Pressure_Anomaly,0
+ICS + OS Telemetry,Decision Tree,Sensor_Anomaly,Sensor_Anomaly,20
+ICS + OS Telemetry,Decision Tree,Sensor_Anomaly,Temperature_Anomaly,0
+ICS + OS Telemetry,Decision Tree,Temperature_Anomaly,Normal,0
+ICS + OS Telemetry,Decision Tree,Temperature_Anomaly,Pressure_Anomaly,0
+ICS + OS Telemetry,Decision Tree,Temperature_Anomaly,Sensor_Anomaly,0
+ICS + OS Telemetry,Decision Tree,Temperature_Anomaly,Temperature_Anomaly,20
+ICS + OS Telemetry,SVM,Normal,Normal,200
+ICS + OS Telemetry,SVM,Normal,Pressure_Anomaly,0
+ICS + OS Telemetry,SVM,Normal,Sensor_Anomaly,0
+ICS + OS Telemetry,SVM,Normal,Temperature_Anomaly,0
+ICS + OS Telemetry,SVM,Pressure_Anomaly,Normal,0
+ICS + OS Telemetry,SVM,Pressure_Anomaly,Pressure_Anomaly,20
+ICS + OS Telemetry,SVM,Pressure_Anomaly,Sensor_Anomaly,0
+ICS + OS Telemetry,SVM,Pressure_Anomaly,Temperature_Anomaly,0
+ICS + OS Telemetry,SVM,Sensor_Anomaly,Normal,0
+ICS + OS Telemetry,SVM,Sensor_Anomaly,Pressure_Anomaly,0
+ICS + OS Telemetry,SVM,Sensor_Anomaly,Sensor_Anomaly,20
+ICS + OS Telemetry,SVM,Sensor_Anomaly,Temperature_Anomaly,0
+ICS + OS Telemetry,SVM,Temperature_Anomaly,Normal,0
+ICS + OS Telemetry,SVM,Temperature_Anomaly,Pressure_Anomaly,0
+ICS + OS Telemetry,SVM,Temperature_Anomaly,Sensor_Anomaly,0
+ICS + OS Telemetry,SVM,Temperature_Anomaly,Temperature_Anomaly,20

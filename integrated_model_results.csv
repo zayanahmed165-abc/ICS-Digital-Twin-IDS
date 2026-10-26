@@ -1,0 +1,7 @@
+Feature_Set,Model,Accuracy,Precision_Weighted,Recall_Weighted,F1_Weighted
+ICS Only,Random Forest,1.0,1.0,1.0,1.0
+ICS Only,Decision Tree,1.0,1.0,1.0,1.0
+ICS Only,SVM,1.0,1.0,1.0,1.0
+ICS + OS Telemetry,Random Forest,1.0,1.0,1.0,1.0
+ICS + OS Telemetry,Decision Tree,1.0,1.0,1.0,1.0
+ICS + OS Telemetry,SVM,1.0,1.0,1.0,1.0

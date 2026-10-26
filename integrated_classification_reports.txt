@@ -1,0 +1,83 @@
+FEATURE SET: ICS Only
+MODEL: Random Forest
+                     precision    recall  f1-score   support
+
+             Normal       1.00      1.00      1.00       200
+   Pressure_Anomaly       1.00      1.00      1.00        20
+     Sensor_Anomaly       1.00      1.00      1.00        20
+Temperature_Anomaly       1.00      1.00      1.00        20
+
+           accuracy                           1.00       260
+          macro avg       1.00      1.00      1.00       260
+       weighted avg       1.00      1.00      1.00       260
+
+
+FEATURE SET: ICS Only
+MODEL: Decision Tree
+                     precision    recall  f1-score   support
+
+             Normal       1.00      1.00      1.00       200
+   Pressure_Anomaly       1.00      1.00      1.00        20
+     Sensor_Anomaly       1.00      1.00      1.00        20
+Temperature_Anomaly       1.00      1.00      1.00        20
+
+           accuracy                           1.00       260
+          macro avg       1.00      1.00      1.00       260
+       weighted avg       1.00      1.00      1.00       260
+
+
+FEATURE SET: ICS Only
+MODEL: SVM
+                     precision    recall  f1-score   support
+
+             Normal       1.00      1.00      1.00       200
+   Pressure_Anomaly       1.00      1.00      1.00        20
+     Sensor_Anomaly       1.00      1.00      1.00        20
+Temperature_Anomaly       1.00      1.00      1.00        20
+
+           accuracy                           1.00       260
+          macro avg       1.00      1.00      1.00       260
+       weighted avg       1.00      1.00      1.00       260
+
+
+FEATURE SET: ICS + OS Telemetry
+MODEL: Random Forest
+                     precision    recall  f1-score   support
+
+             Normal       1.00      1.00      1.00       200
+   Pressure_Anomaly       1.00      1.00      1.00        20
+     Sensor_Anomaly       1.00      1.00      1.00        20
+Temperature_Anomaly       1.00      1.00      1.00        20
+
+           accuracy                           1.00       260
+          macro avg       1.00      1.00      1.00       260
+       weighted avg       1.00      1.00      1.00       260
+
+
+FEATURE SET: ICS + OS Telemetry
+MODEL: Decision Tree
+                     precision    recall  f1-score   support
+
+             Normal       1.00      1.00      1.00       200
+   Pressure_Anomaly       1.00      1.00      1.00        20
+     Sensor_Anomaly       1.00      1.00      1.00        20
+Temperature_Anomaly       1.00      1.00      1.00        20
+
+           accuracy                           1.00       260
+          macro avg       1.00      1.00      1.00       260
+       weighted avg       1.00      1.00      1.00       260
+
+
+FEATURE SET: ICS + OS Telemetry
+MODEL: SVM
+                     precision    recall  f1-score   support
+
+             Normal       1.00      1.00      1.00       200
+   Pressure_Anomaly       1.00      1.00      1.00        20
+     Sensor_Anomaly       1.00      1.00      1.00        20
+Temperature_Anomaly       1.00      1.00      1.00        20
+
+           accuracy                           1.00       260
+          macro avg       1.00      1.00      1.00       260
+       weighted avg       1.00      1.00      1.00       260
+
